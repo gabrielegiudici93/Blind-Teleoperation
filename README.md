@@ -5,7 +5,7 @@
 <summary><strong><em> PAPER WEBSITE:</em></strong></summary>
 
 <div style="background-color: #f2f2f2; padding: 10px;">
-https://arq-crisp.github.io/DexSkills/
+https://gabrielegiudici93.github.io/Blind-Teleoperation/
 </div>
 </details>
 
